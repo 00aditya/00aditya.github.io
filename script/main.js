@@ -119,11 +119,11 @@ const animationTimeline = () => {
       ".idea-5",
       0.7,
       {
-        rotationX: 45,
-        rotationZ: -30,
-        skewY: "-15deg",
-        y: 150,
-        z: 30,
+        rotationX: 15,
+        rotationZ: -10,
+        skewY: "-5deg",
+        y: 50,
+        z: 10,
         opacity: 0
       },
       "+=0.5"
@@ -132,7 +132,7 @@ const animationTimeline = () => {
       ".idea-5 span",
       0.7,
       {
-        rotation: 270,
+        rotation: 90,
         x: 8
       },
       "+=0.4"
